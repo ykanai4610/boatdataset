@@ -1,0 +1,8 @@
+file_path:
+  kekkaf_dir: r"G:\マイドライブ\BR_python\kekkaf"
+  sample_dir: r"G:\マイドライブ\BR_python\kekkaf_sample"
+  stats_dir: r"G:\マイドライブ\BR_python\kekkaf_stats"
+  main_dir: r"G:\マイドライブ\BR_python\kekkaf_main"
+  sample_file: r"G:\マイドライブ\BR_python\kekkaf_sample\kekkaf_2024_sample.csv"
+  stats_file: r"G:\マイドライブ\BR_python\kekkaf_stats\kekkaf_2024_stats.json"
+  main_file: r"G:\マイドライブ\BR_python\kekkaf_main\kekkaf_2024_main.csv"
